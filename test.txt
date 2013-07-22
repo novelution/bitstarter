@@ -1,0 +1,5 @@
+https://github.com/aanandmailbox/bitstarter/blob/master/index.html
+
+https://console.aws.amazon.com/ec2/home?region=us-west-2#s=Instances
+
+https://class.coursera.org/startup-001/assignment/view?assignment_id=10
